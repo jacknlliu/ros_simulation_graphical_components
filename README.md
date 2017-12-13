@@ -9,4 +9,5 @@ config file or commands to achieve this.
 - URDF GUI Generator
 - Gazebo import model from CAD model directly, Gazebo export model to CAD model format(such as, `.obj`)
 - Gazebo simulation with simple script and GUI to control robot directly without many codes then to see what happends
+- Gazebo show path of the motion directly without rviz. Gazebo should combine some function from rviz.
 - ...
